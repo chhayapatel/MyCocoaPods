@@ -7,11 +7,13 @@
 //
 
 import UIKit
+import MyCocoaPods
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        print(Service.doSomeThing())
         // Do any additional setup after loading the view, typically from a nib.
     }
 

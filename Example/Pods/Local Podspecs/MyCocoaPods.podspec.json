@@ -1,0 +1,22 @@
+{
+  "name": "MyCocoaPods",
+  "version": "0.1.0",
+  "summary": "A short description of MyCocoaPods.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/chhaya patel/MyCocoaPods",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chhaya patel": "chhaya.patel@neosoftmail.com"
+  },
+  "source": {
+    "git": "https://github.com/chhaya patel/MyCocoaPods.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MyCocoaPods/Classes/**/*"
+}
